@@ -14,7 +14,7 @@ With hands-on experience building production-grade apps across fintech, telecom,
 
 - **Languages:** JavaScript, TypeScript, Python, Node.js
 - **Frontend:** React Native, React, Redux, Tailwind CSS, Expo
-- **Backend:** Python, FastAPI, Node.js, Express.js, Firebase, MongoDB, SQLite, REST APIs
+- **Backend:** Python, FastAPI, Node.js, Express.js, Firebase, MongoDB, SQL, SQLite, REST APIs
 - **Other:** Git, Figma, WeChat Mini Programs, Agile/Scrum, AI Tools (OpenAI API, ChatGPT integrations)
 
 ---
