@@ -23,7 +23,7 @@ With hands-on experience building production-grade apps across fintech, telecom,
 
 ### 1. Ooredoo Qatar – B2C Telecom App  
 A full-featured telecom app used by millions in Qatar for bill payments, balance checks, recharges, offers, and support.  
-[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)]([https://play.google.com/store/apps/details?id=com.ooredoo.qa&hl=en&gl=US](https://play.google.com/store/search?q=ooredoo%20qatar&c=apps&hl=en))  
+[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/search?q=ooredoo%20qatar&c=apps&hl=en))  
 [![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/qa/app/ooredoo-app/id519207540)
 
 ---
