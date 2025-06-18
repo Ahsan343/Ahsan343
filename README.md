@@ -23,22 +23,22 @@ With hands-on experience building production-grade apps across fintech, telecom,
 
 ### 1. Ooredoo Qatar – B2C Telecom App  
 A full-featured telecom app used by millions in Qatar for bill payments, balance checks, recharges, offers, and support.  
-[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/search?q=ooredoo%20qatar&c=apps&hl=en))  
-[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/qa/app/ooredoo-app/id519207540)
+[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/search?q=ooredoo%20qatar&c=apps&hl=en) 
+[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/tz/app/ooredoo-qatar/id619828745)
 
 ---
 
 ### 2. Ooredoo Qatar – B2B (Business App)  
 An enterprise-grade app designed for small and medium businesses to manage telecom services.  
-[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/apps/details?id=com.ooredoo.business&hl=en&gl=US)  
-[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/qa/app/ooredoo-business/id1509299626)
+[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/apps/details?id=qa.ooredoo.smb)  
+[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/tz/app/ooredoo-business/id6463796777)
 
 ---
 
 ### 3. Fasset – Digital Assets & Crypto Investment  
 A secure and user-friendly platform for buying and managing digital assets, with regulatory compliance.  
-[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/apps/details?id=com.fasset.app&hl=en&gl=US)  
-[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/id/app/fasset/id1609430573)
+[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/search?q=fasset&c=apps&hl=en)  
+[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/us/app/fasset-buy-digital-assets/id1599893605)
 
 ---
 
@@ -58,21 +58,21 @@ A logistics-focused app for drivers to manage deliveries and shipments in real t
 
 ### 6. Alkahraba – Saudi Electricity Company  
 A national app used for viewing electricity bills, payments, and outage notifications across Saudi Arabia.  
-[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/apps/details?id=com.se.ele&hl=en&gl=US)  
-[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/sa/app/%D8%A7%D9%84%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1/id1194224580)
+[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/apps/details?id=sa.com.se.alkahraba&hl=en)  
+[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/sa/app/al-kahraba/id1502975624)
 
 ---
 
 ### 7. Graana – Real Estate Portal (B2C)  
 Pakistan’s leading real estate platform for property listings, buying, and renting.  
-[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/apps/details?id=com.graana.app&hl=en&gl=US)  
-[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/pk/app/graana-com/id1558809941)
+[![Android](https://img.shields.io/badge/Android-Play_Store-green?logo=android)](https://play.google.com/store/apps/details?id=com.graanaapp)  
+[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/us/app/graana-real-estate-portal/id1438849353)
 
 ---
 
 ### 8. ARMS by Graana – Automated Lead Manager (B2B)  
 A powerful tool for real estate agents to manage leads, clients, and communication workflows.  
-[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/pk/app/arms-by-graana/id1560394231)
+[![iOS](https://img.shields.io/badge/iOS-App_Store-blue?logo=apple)](https://apps.apple.com/us/app/arms-automated-lead-manager/id1510819743)
 
 ---
 
